@@ -1,0 +1,9 @@
+gallery-item img { 
+    transition: all 0.3s ease;
+}
+
+
+.gallery-item:hover { 
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(225, 6, 0, 0.2);
+}
